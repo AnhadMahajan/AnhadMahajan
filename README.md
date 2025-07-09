@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anhadmahajan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anhad-mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhadmahajan06@gmail.com) 
 
 # 💻 Tech Stack: 
