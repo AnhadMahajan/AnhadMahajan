@@ -1,42 +1,104 @@
-<!-- Animated SVG Banner -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="assets/animated-banner.svg" alt="Animated Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey%2C+I'm+Anhad+Mahajan!;AI+%7C+ML+%7C+Automation+Enthusiast;Always+building+cool+things+%F0%9F%9A%80">
 </p>
 
-<!-- Typing Header -->
+<!-- Optional: Add a banner GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=800&multiline=true&center=true&width=700&lines=Hello+👋+I'm+Anhad+Mahajan!;AI+%7C+ML+%7C+Automation;Building+Smart+Solutions+🚀" />
-</p>
-
----
-
-## 🛡️ Badges & Stats
-
-<p align="center">
-  <!-- Certificates badges -->
-  <img src="https://img.shields.io/badge/Azure‑AI‑Fundamentals‑AI‑900‑2BADF4?logo=microsoft&logoColor=white" alt="AI‑900" />
-  <img src="https://img.shields.io/badge/Azure‑Cloud‑Fundamentals‑AZ‑900‑0078D4?logo=microsoft&logoColor=white" alt="AZ‑900" />
-  
-  <!-- GitHub metrics dynamic badges -->
-  <img src="https://img.shields.io/github/followers/AnhadMahajan?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AnhadMahajan?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/AnhadMahajan/AnhadMahajan?logo=github" alt="Repo Size" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </p>
 
 ---
 
-## 📊 Animated GitHub Visuals
+# 💫 About Me:
+- 🔭 Currently working on intelligent systems that blend AI and automation  
+- 🤝 Open to collaborating on open-source AI/ML projects and real-world data challenges  
+- 🧠 Learning efficient ML deployment (MLOps) and scalable pipelines  
+- 🌱 Upskilling in MLOps, DSA in Java, and advanced feature engineering  
+- 💬 Ask me about AI projects, data analysis, or Kaggle competitions  
+- ⚡ Fun fact: Built a Subway Surfer clone using Python for fun!
 
+---
+
+## 🌐 Connect with me:
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=radical&line_height=25)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=tokyonight&show_icons=true)
+  <a href="https://facebook.com/anhad.mahajan.9"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
+  <a href="https://instagram.com/anhadmahajan_"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://linkedin.com/in/anhad-mahajan"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://medium.com/@anhadmahajan06"><img src="https://skillicons.dev/icons?i=medium" height="30"/></a>
+  <a href="mailto:anhadmahajan06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
 </p>
 
 ---
 
-## 📈 Dynamic Contribution Graph
+# 💻 Tech Stack
+> **Languages | Frameworks | DevOps | Cloud | Databases | ML Tools**
 
-```html
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,php,kotlin" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react,nextjs,tailwind,bootstrap,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,render,firebase,aws,gcp,azure,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite,redis" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,opencv,matplotlib,numpy,pandas,seaborn" />
 </p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical" width="47%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=radical" width="47%"/>
+</p>
+
+---
+
+## 📈 Activity Graph & Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📌 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnhadMahajan&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnhadMahajan&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 📟 Profile Views Counter
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AnhadMahajan&label=Profile%20Views&icon=5&color=6" />
+</p>
+
+<!-- Made with ❤️ by Anhad Mahajan -->
