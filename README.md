@@ -132,13 +132,14 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
 
 
 
-#📟 Profile Views Counter
+---
+
+### 📟 Profile Views Counter
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 
 
