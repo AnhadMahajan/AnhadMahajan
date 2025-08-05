@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">🧑‍💻 About Me</p>
+<h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
   I'm a third-semester <b>Computer Science Engineering</b> student with a specialization in <b>Artificial Intelligence</b>. My passion lies at the intersection of AI, web development, and IoT, where I focus on building intelligent, data-driven solutions that solve real-world problems. I'm currently deepening my expertise in <b>Data Structures & Algorithms</b>, <b>MLOps</b>, and designing scalable <b>cloud-native applications</b>.
@@ -36,7 +36,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">🛠️ My Tech Stack</p>
+<h3 align="center">🛠️ My Tech Stack</h3>
 
 <p align="center">
   I work with a diverse range of tools and technologies across the stack. Here are some of my key skills.
@@ -70,7 +70,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">📊 My GitHub Stats</p>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00FFFF&icon_color=00FFFF&title_color=00FFFF&text_color=FFF" width="49%"/>
@@ -84,7 +84,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">🏆 GitHub Trophies</p>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
@@ -94,7 +94,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">🐍 My Contribution Graph</p>
+<h3 align="center">🐍 My Contribution Graph</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnhadMahajan/AnhadMahajan/output/github-contribution-grid-snake.svg" />
@@ -104,7 +104,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
 
-### <p align="center">✍️ Latest Blog Posts</p>
+<h3 align="center">✍️ Latest Blog Posts</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
@@ -112,8 +112,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
 </p>
