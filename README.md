@@ -98,7 +98,7 @@
 
 ### 📟 Profile Views Counter
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AnhadMahajan&label=Profile%20Views&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Made with ❤️ by Anhad Mahajan -->
