@@ -130,11 +130,7 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
 
 ---
 
-
-
----
-
-### 📟 Profile Views
+# 📟 Profile Views
 
 
 <p align="center">
