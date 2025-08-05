@@ -11,12 +11,12 @@
 ---
 
 # 💫 About Me:
-- 🔭 I’m currently working on building intelligent systems that blend AI and automation  
-- 🤝 I’m looking to collaborate on open-source AI/ML projects and real-world data challenges  
-- 🧠 I’m learning about efficient ML deployment (MLOps!)  
-- 🌱 Currently upskilling in MLOps, DSA in Java, and advanced feature engineering  
+- 🔭 Currently working on intelligent systems that blend AI and automation  
+- 🤝 Open to collaborating on open-source AI/ML projects and real-world data challenges  
+- 🧠 Learning efficient ML deployment (MLOps) and scalable pipelines  
+- 🌱 Upskilling in MLOps, DSA in Java, and advanced feature engineering  
 - 💬 Ask me about AI projects, data analysis, or Kaggle competitions  
-- ⚡ Fun fact: I once made a Subway Surfer clone using Python just for fun!
+- ⚡ Fun fact: Built a Subway Surfer clone using Python for fun!
 
 ---
 
@@ -35,15 +35,15 @@
 > **Languages | Frameworks | DevOps | Cloud | Databases | ML Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,php,kotlin" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react,nextjs,tailwind,bootstrap,express" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,render,firebase,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,render,firebase,aws,gcp,azure,docker" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite,redis" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikit-learn,opencv,matplotlib,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,opencv,matplotlib,numpy,pandas,seaborn" />
 </p>
 
 ---
@@ -54,6 +54,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical" width="47%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=radical" width="47%"/>
+</p>
+
+---
+
+## 📈 Activity Graph & Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📌 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnhadMahajan&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
@@ -79,8 +96,9 @@
 
 ---
 
+### 📟 Profile Views Counter
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AnhadMahajan&label=Profile%20Views&icon=5&color=6" />
 </p>
 
-<!-- Created with ❤️ using GPRM (https://gprm.itsvg.in) -->
+<!-- Made with ❤️ by Anhad Mahajan -->
