@@ -9,7 +9,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
+ 
 I'm a third-semester Computer Science Engineering student specializing in Artificial Intelligence. My passion lies at the intersection of machine intelligence, interactive web development, and the Internet of Things (IoT). I love architecting solutions that not only think but also feel and respond to the real world.
 
 <br>
