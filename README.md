@@ -76,31 +76,66 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
 
 ---
 
-### 📊 My GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=radical&hide_border=true&count_private=true" width="49%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical" width="47%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=radical" width="47%" />
+</p>
 
-<details>
-  <summary><b>📈 More Stats & Activity</b> (Click to expand)</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical&hide_border=true" width="49%"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="49%"/>
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhadMahajan&theme=radical" />
-  </div>
-  <br>
-</details>
+---
 
-<div align="center">
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
+</p>
+
+---
+
+# 📌 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhadMahajan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnhadMahajan&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+# 📜 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+# 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnhadMahajan&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 👁️‍🗨️ Profile Views
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
+</p>
+
+---
+
+<!-- Made with ❤️ by Anhad Mahajan -->
