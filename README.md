@@ -23,7 +23,7 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
-  I'm a third-semester <b>Computer Science Engineering</b> student with a specialization in <b>Artificial Intelligence</b>. My passion lies at the intersection of AI, web development, and IoT, where I focus on building intelligent, data-driven solutions that solve real-world problems. I'm currently deepening my expertise in <b>Data Structures & Algorithms</b>, <b>MLOps</b>, and designing scalable <b>cloud-native applications</b>.
+  As a <b>Computer Science Engineering</b> student specializing in <b>Artificial Intelligence</b>, my passion lies at the intersection of AI, web development, and IoT. I focus on building intelligent, data-driven solutions that solve real-world problems and am currently deepening my expertise in <b>Data Structures & Algorithms</b>, <b>MLOps</b>, and designing scalable <b>cloud-native applications</b>.
 </p>
 
 - 🧠 Building end-to-end AI systems, with a current focus on **Emotion Detection** and **Generative AI (LLMs)**.
@@ -72,13 +72,26 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00FFFF&icon_color=00FFFF&title_color=00FFFF&text_color=FFF" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=AnhadMahajan&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" width="49%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFF" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=tokyonight&hide_border=true&hide_title=false&area=true&line=00FFFF&point=FFFFFF" width="49%"/>
-</p>
+<div align="center">
+<table width="95%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00FFFF&icon_color=00FFFF&title_color=00FFFF&text_color=FFF" alt="Anhad's GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=AnhadMahajan&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Anhad's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFF" alt="Anhad's Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=tokyonight&hide_border=true&hide_title=false&area=true&line=00FFFF&point=FFFFFF" alt="Anhad's Activity Graph" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%"/>
