@@ -43,7 +43,7 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,php,kotlin" />
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
     </td>
   </tr>
   <tr>
@@ -55,19 +55,19 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
   <tr>
     <td align="center"><strong>Web Development (Frontend & Backend)</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,fastapi,nodejs,express,tailwind,bootstrap,threejs" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,nodejs,express,tailwind,bootstrap,threejs" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Databases & Cloud</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,azure,gcp,aws,supabase" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,azure,gcp,aws,supabase" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Tools & Platforms</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,render,postman,arduino" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,postman,arduino" />
     </td>
   </tr>
 </table>
@@ -76,43 +76,30 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnhadMahajan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhadMahajan&layout=compact&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnhadMahajan&theme=radical&utcOffset=5.5" width="49%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AnhadMahajan&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
+<details>
+  <summary><b>📈 More Stats & Activity</b> (Click to expand)</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnhadMahajan&theme=radical&hide_border=true" width="49%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AnhadMahajan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="49%"/>
+  </div>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhadMahajan&theme=radical&area=true&hide_border=true" />
+  </div>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhadMahajan&theme=radical" />
+  </div>
+  <br>
+</details>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
