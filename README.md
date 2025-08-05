@@ -134,9 +134,8 @@ This is a snapshot of the tools and technologies I use. I'm always exploring new
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnhadMahajan&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnhadMahajan.AnhadMahajan" alt="Visitor Badge"/>
 </div>
-
 
 
 
