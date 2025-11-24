@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey%2C+I'm+Anhad+Mahajan!;AI+%7C+Web+Dev+%7C+IoT+Enthusiast;I+turn+ideas+into+intelligent+solutions">
 </div>
 
-<p align="center">
+<p align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </p> 
 
