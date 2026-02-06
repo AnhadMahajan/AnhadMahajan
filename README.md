@@ -67,7 +67,7 @@ const anhad = {
 
 ### 🔥 Quick Highlights
 
-- 🎓 **3rd Year CS Student** specializing in AI/ML
+- 🎓 **2nd Year CS Student** specializing in AI/ML
 - 🏆 **Azure AI Certified** Professional
 - 💡 Built **10+ AI/ML Projects** from scratch
 - 🌐 Developed **15+ Web Applications**
