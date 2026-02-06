@@ -31,7 +31,7 @@ const anhad = {
     education: {
         degree: "B.Tech in Computer Science & Engineering",
         specialization: "Artificial Intelligence & Machine Learning",
-        semester: "3rd Year",
+        semester: "4th Sem",
         focus: ["Deep Learning", "Cloud Computing", "System Design"]
     },
     
