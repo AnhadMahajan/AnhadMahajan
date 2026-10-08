@@ -1,8 +1,8 @@
 <div align="center"> 
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anhad%20Mahajan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast;Turning+Ideas+into+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Kaggle+Expert+%7C+ML+Enthusiast;Building+Models+That+Solve+Real+Problems" />
 
 <br>
 
@@ -16,6 +16,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/anhadmahajan_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D9FF)](#)
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -25,40 +27,71 @@
 ```typescript
 const anhad = {
     title: "CS Engineering Student | AI/ML Specialist",
-    location: "Banūr, Punjab, India 🇮🇳",
-    currentStatus: "Available for collaborations and opportunities",
-    
+    location: "Punjab, India 🇮🇳",
+    currentStatus: "Building, experimenting, and learning in AI/ML",
+
     education: {
-        degree: "B.Tech in Computer Science & Engineering",
+        degree: "B.E. in Computer Science Engineering",
         specialization: "Artificial Intelligence & Machine Learning",
-        semester: "4th Sem",
-        focus: ["Deep Learning", "Cloud Computing", "System Design"]
+        university: "Chitkara University",
+        semester: "5th Semester",
+        gpa: "9.29 / 10.0",
+        focus: [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "MLOps"
+        ]
     },
-    
+
+    kaggle: {
+        status: "Kaggle Expert",
+        focus: [
+            "Competitions",
+            "Notebook Development",
+            "Machine Learning",
+            "Data Science"
+        ],
+        achievement: "Top Notebook Creator"
+    },
+
     workExperience: {
-        aiProjects: ["Emotion Detection Systems", "ML Model Optimization"],
-        webProjects: ["Full-Stack Applications", "Real-time Analytics"],
-        iotProjects: ["Smart Automation", "Sensor Networks"]
+        role: "Freelance AI, Automation & IoT Developer",
+        focus: [
+            "AI/ML Systems",
+            "LLM Applications",
+            "Automation Workflows",
+            "Predictive Analytics",
+            "Cloud Deployment"
+        ]
     },
-    
+
     certifications: [
-        "Microsoft Azure AI Fundamentals (AI-900)",
-        // More certifications in progress...
+        "Oracle Agentic AI Certified Foundations Associate",
+        "Oracle OCI AI Foundations Associate",
+        "DeepLearning.AI Machine Learning Specialization",
+        "IBM Deep Learning with PyTorch, Keras & TensorFlow",
+        "Microsoft AZ-900",
+        "Microsoft AI-900",
+        "Microsoft DP-900"
     ],
-    
+
     currentlyExploring: [
-        "Advanced Data Structures & Algorithms in Java",
+        "Advanced Machine Learning",
+        "Deep Learning & Transformers",
+        "LLMs & Multimodal AI",
         "MLOps & Model Deployment",
-        "Cloud-Native Architecture",
-        "Microservices with Docker & Kubernetes"
+        "AI Agents",
+        "Production ML Systems"
     ],
-    
-    philosophy: "Building intelligent systems that bridge the digital and physical worlds",
-    
+
+    philosophy: "Learn deeply, experiment constantly, and build useful AI systems",
+
     lifeGoals: [
-        "Contribute to cutting-edge AI research",
-        "Build products that impact millions",
-        "Share knowledge through tech blogging"
+        "Become a strong ML Engineer",
+        "Build impactful AI products",
+        "Contribute to open source and AI research",
+        "Share knowledge through projects and technical content"
     ]
 };
 ```
@@ -67,14 +100,17 @@ const anhad = {
 
 ### 🔥 Quick Highlights
 
-- 🎓 **2nd Year CS Student** specializing in AI/ML
-- 🏆 **Azure AI Certified** Professional
-- 💡 Built **10+ AI/ML Projects** from scratch
-- 🌐 Developed **15+ Web Applications**
-- 🔌 Created **5+ IoT Solutions** with cloud integration
-- 📝 Active **Tech Blogger** on Medium
-- ⚡ **Open Source Enthusiast** contributing to the community
-- 🎯 Solved **500+ DSA Problems** across platforms
+- 🎓 **5th Semester CS Engineering Student** specializing in AI/ML
+- 📚 **9.29 / 10.0 GPA**
+- 🏆 **Kaggle Expert** and ranked among the top Notebook creators globally
+- 🥇 **Kaggle Medalist** with Gold, Silver, and Bronze achievements
+- 🤖 Built projects across **Machine Learning, Deep Learning & Generative AI**
+- 🧠 Working with **Transformers, LLMs, LoRA/PEFT & Multimodal Models**
+- 📊 Active **Kaggle Competitor & Notebook Creator**
+- ⚙️ Exploring **MLOps & Production ML**
+- ☁️ Working with **AWS, Azure & OCI**
+- 🚀 Freelance **AI, Automation & IoT Developer**
+- 📝 Technical Learner & Content Creator
 
 <br clear="right"/>
 
@@ -92,52 +128,116 @@ const anhad = {
 
 ```python
 ai_skills = {
-    "Machine Learning": ["Regression", "Classification", "Clustering"],
-    "Deep Learning": ["CNNs", "RNNs", "Transformers"],
-    "Computer Vision": ["Object Detection", "Image Segmentation"],
-    "NLP": ["Sentiment Analysis", "Text Generation"],
-    "Frameworks": ["TensorFlow", "PyTorch", "Keras"],
-    "Tools": ["Jupyter", "Google Colab", "Hugging Face"]
+    "Machine Learning": [
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Ensemble Methods"
+    ],
+
+    "Deep Learning": [
+        "CNNs",
+        "Transformers",
+        "Transfer Learning",
+        "Model Distillation"
+    ],
+
+    "Generative AI": [
+        "LLMs",
+        "Multimodal Models",
+        "Fine-tuning",
+        "LoRA / PEFT"
+    ],
+
+    "Computer Vision": [
+        "Image Classification",
+        "Object Detection",
+        "Image Understanding"
+    ],
+
+    "NLP": [
+        "Text Classification",
+        "Information Extraction",
+        "LLM Applications"
+    ],
+
+    "Optimization": [
+        "Hyperparameter Optimization",
+        "Quantization",
+        "Pruning",
+        "Model Optimization"
+    ]
 }
 ```
 
 **Key Projects:**
-- 🎭 Emotion Detection System with 92% accuracy
-- 🖼️ Image Classification using CNNs
-- 📊 Predictive Analytics Dashboard
-- 🗣️ NLP-based Chatbot
+
+- 🤖 BLIP-2 Fine-Tuning with LoRA
+- 🌿 LeafNet Plant Disease Detection
+- ⚙️ AutoML Predictive Pipeline
+- 📄 LLM Document Intelligence Engine
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 **Web Development**
+### 🌐 **Applied AI & Development**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 ```javascript
-const webSkills = {
-    frontend: {
-        frameworks: ["React.js", "Next.js", "Vue.js"],
-        styling: ["Tailwind CSS", "Bootstrap", "SASS"],
-        animation: ["GSAP", "Framer Motion", "Three.js"]
-    },
+const appliedAI = {
+    aiApplications: [
+        "LLM Applications",
+        "Vision-Language Systems",
+        "Predictive Analytics",
+        "AI Automation"
+    ],
+
     backend: {
-        languages: ["Node.js", "Python", "Java"],
-        frameworks: ["Express", "Flask", "Django"],
-        api: ["REST", "GraphQL", "WebSocket"]
-    }
+        frameworks: [
+            "FastAPI",
+            "Flask"
+        ],
+        APIs: [
+            "REST APIs"
+        ]
+    },
+
+    development: {
+        languages: [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL"
+        ],
+
+        visualization: [
+            "Three.js",
+            "WebGL"
+        ]
+    },
+
+    automation: [
+        "n8n",
+        "REST API Workflows",
+        "Cloud Triggers"
+    ]
 };
 ```
 
 **Key Projects:**
-- 🚀 Full-Stack E-commerce Platform
-- 📱 Real-time Chat Application
-- 🎨 Interactive Portfolio Website
-- 📊 Analytics Dashboard with D3.js
+
+- 🚗 RaceForge-AI — Generative AI + Three.js
+- 📄 LLM Document Intelligence Engine
+- 📊 AutoML Predictive Pipeline
+- 🤖 AI-powered Automation Workflows
 
 </td>
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🔌 **IoT & Hardware**
@@ -146,19 +246,42 @@ const webSkills = {
 
 ```cpp
 struct IoTExpertise {
-    String hardware[] = {"Arduino", "Raspberry Pi", "ESP32"};
-    String sensors[] = {"DHT", "Ultrasonic", "PIR", "Gas"};
-    String protocols[] = {"MQTT", "HTTP", "CoAP"};
-    String cloudPlatforms[] = {"ThingSpeak", "AWS IoT", "Azure IoT"};
+    String hardware[] = {
+        "ESP32",
+        "ESP8266",
+        "Arduino"
+    };
+
+    String sensors[] = {
+        "DHT22",
+        "BMP280",
+        "MQ135",
+        "ADXL345",
+        "RFID"
+    ];
+
+    String protocols[] = {
+        "HTTP",
+        "I2C",
+        "SPI"
+    ];
+
+    String platforms[] = {
+        "ThingSpeak",
+        "Blynk"
+    };
+
     String applications[] = {
-        "Smart Home Automation",
-        "Environmental Monitoring",
-        "Agricultural IoT Systems"
+        "Smart Monitoring",
+        "Cold Chain Monitoring",
+        "Smart Parking",
+        "Smart Cart"
     };
 };
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ☁️ **Cloud & DevOps**
@@ -168,17 +291,31 @@ struct IoTExpertise {
 ```yaml
 cloud_devops:
   cloud_providers:
-    - Azure: ["VM", "Functions", "AI Services"]
-    - AWS: ["EC2", "Lambda", "S3"]
-    - GCP: ["Compute Engine", "Cloud Functions"]
-  
+    - AWS
+    - Azure
+    - OCI
+
+  mlops:
+    - MLflow
+    - Weights & Biases
+    - Model Deployment
+    - Experiment Tracking
+
   containerization:
-    - Docker: "Container Management"
-    - Kubernetes: "Orchestration"
-  
-  databases:
-    - SQL: ["MySQL", "PostgreSQL"]
-    - NoSQL: ["MongoDB", "Firebase"]
+    - Docker
+    - Kubernetes
+
+  development:
+    - Git
+    - GitHub
+    - CI/CD
+
+  ml_production:
+    - Data Versioning
+    - Distributed Training
+    - Mixed Precision
+    - ONNX
+    - TensorRT
 ```
 
 </td>
@@ -208,16 +345,33 @@ cloud_devops:
 <summary><b>🧠 AI/ML & Data Science</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Interpretability-8A2BE2?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Optimization-2E8B57?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🧬 Deep Learning & Generative AI</b></summary>
+<br>
+
+![Transformers](https://img.shields.io/badge/Transformers-Models-FFB000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-7B61FF?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-FF6B6B?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-Parameter--Efficient_Fine--Tuning-4C9AFF?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-Deep_Learning-00A67E?style=for-the-badge)
+![Quantization](https://img.shields.io/badge/Quantization-Model_Optimization-8E44AD?style=for-the-badge)
 
 </details>
 
@@ -262,6 +416,7 @@ cloud_devops:
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -276,12 +431,16 @@ cloud_devops:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </details>
 
@@ -332,9 +491,9 @@ cloud_devops:
 | 🌟 GitHub Stars Earned | ![Stars](https://img.shields.io/github/stars/AnhadMahajan?style=social) |
 | 🔀 Total Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/AnhadMahajan) |
 | 👥 Followers | ![Followers](https://img.shields.io/github/followers/AnhadMahajan?style=social) |
-| 📝 Total Contributions | 500+ |
-| 💻 DSA Problems Solved | 500+ |
-| 🎓 Certifications | 1+ |
+| 📝 Total Contributions | Active Contributor |
+| 💻 DSA Practice | Java & C++ |
+| 🎓 Certifications | 9+ |
 
 </div>
 
@@ -344,37 +503,55 @@ cloud_devops:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🔭 Currently Working On
-- 🤖 Advanced Emotion AI System
-- 🌐 Full-Stack SaaS Platform
-- 🔌 Smart Home IoT Ecosystem
-- 📊 Real-time Analytics Dashboard
+
+- 🤖 **Machine Learning & Deep Learning Projects**
+- 🧠 **Generative AI & Multimodal Models**
+- 🏆 **Kaggle Competitions & Notebook Experiments**
+- 📦 **Production-ready ML Pipelines**
+- ⚙️ **AI Automation & Agentic Workflows**
+- 🚀 **MLOps & Model Deployment**
 
 ### 🌱 Learning & Exploring
+
 - 🧮 Advanced DSA in Java
+- 🧠 Advanced Deep Learning
+- 🤗 Transformers & LLMs
+- 🔧 LoRA / PEFT & Efficient Fine-Tuning
+- 📊 Advanced Feature Engineering
 - 🚀 MLOps & Model Deployment
-- ☁️ Kubernetes & Microservices
-- 🎨 Advanced Three.js & WebGL
+- ☁️ Cloud ML Infrastructure
+- 🧩 AI Agents & Generative AI
 
 </td>
+
 <td width="50%">
 
 ### 👯 Looking to Collaborate On
+
 - 💡 AI/ML Research Projects
-- 🌐 Open Source Web Applications
-- 🤝 Innovative IoT Solutions
-- 📚 Tech Educational Content
+- 🤖 Generative AI & LLM Applications
+- 🏆 Kaggle Competitions
+- 🔬 Deep Learning Experiments
+- 🌐 Open Source AI Projects
+- ⚙️ ML Automation & MLOps
+- 📚 Technical & Educational Content
 
 ### ⚡ Fun Facts
+
 - ☕ Coffee → Code Converter
 - 🌙 Night Owl Coder
 - 🎮 Gaming Enthusiast
-- 📖 Avid Tech Blogger
+- 📖 Avid Tech Learner
 - 🎵 Music While Coding
+- 🧪 I enjoy experimenting with models and datasets
+- 🏆 Kaggle is my ML playground
 
 </td>
+
 </tr>
 </table>
 
@@ -383,11 +560,11 @@ cloud_devops:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🤖 [Understanding Neural Networks: A Beginner's Guide](#)
-- 🌐 [Building Scalable Web Apps with React and Node.js](#)
-- 🔌 [IoT Project: Smart Home Automation with Arduino](#)
-- ☁️ [Deploying ML Models on Azure: A Complete Guide](#)
-- 💡 [10 Tips to Improve Your Coding Skills](#)
+- 🤖 [Machine Learning & AI Experiments](#)
+- 🧠 [Deep Learning & Generative AI](#)
+- 🏆 [Kaggle Competition & Notebook Experiments](#)
+- 🚀 [MLOps & Model Deployment](#)
+- 💡 [AI Engineering & Automation](#)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on Medium...](https://medium.com/@anhadmahajan06)
@@ -428,15 +605,19 @@ cloud_devops:
   <a href="https://linkedin.com/in/anhad-mahajan">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:anhadmahajan06@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://medium.com/@anhadmahajan06">
     <img src="https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/anhadmahajan_">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -457,6 +638,7 @@ cloud_devops:
 If you like my projects and want to support my work:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](#)
 
 ⭐ **Star my repositories** if you find them useful!
@@ -466,7 +648,7 @@ If you like my projects and want to support my work:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
 
 ### 📊 Profile Stats
